@@ -21,7 +21,9 @@
 5. В файле currency_converter.py замените строку: API_KEY = "ВАШ_API_КЛЮЧ", вставив ваш реальный ключ
 6. Должна быть установлена библиотека requests
 7. Как установить requests:
+
    bash
+
    pip install requests
 
 ---
